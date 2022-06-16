@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title></title>
+    </head>
+    <body>
+        <h1>About Me</h1>
+        <hr/>
+        <ul>
+            <li>I like to do gem paintings</li>
+            <li>I like to play mini golf</li>
+            <li>I like to hang out with my cats</li>
+        </ul>
+    </body>
+</html>

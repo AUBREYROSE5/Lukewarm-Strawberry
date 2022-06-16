@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title></title>
+    </head>
+    <body>
+        <h1>My favorite foods</h1>
+        <hr/>
+        <ol>
+            <li>Pasta</li>
+            <li>Potatoes</li>
+            <li>Hamburgers</li>
+        </ol>
+    </body>
+</html>
