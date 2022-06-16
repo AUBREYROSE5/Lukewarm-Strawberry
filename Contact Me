@@ -4,6 +4,11 @@
         <title></title>
     </head>
     <body>
+        <header>
+            <a href="About">About</a>
+            <a href="Contact ME">Contact</a>
+            <a href="Home">Home</a>
+        </header>
         <h1>Contact</h1>
         <hr/>
         <p>Here is a link to <a href=" https://github.com/AUBREYROSE5/Lukewarm-Strawberry.git">my github</a></p>

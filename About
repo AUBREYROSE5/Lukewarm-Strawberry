@@ -3,6 +3,11 @@
     <head>
         <title></title>
     </head>
+    <header>
+        <a href="About">About</a>
+        <a href="Contact ME">Contact</a>
+        <a href="Home">Home</a>
+    </header>
     <body>
         <h1>About Me</h1>
         <hr/>

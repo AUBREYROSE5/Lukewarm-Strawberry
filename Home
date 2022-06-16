@@ -4,6 +4,11 @@
         <title></title>
     </head>
     <body>
+        <header>
+            <a href="About">About</a>
+            <a href="Contact ME">Contact</a>
+            <a href="Home">Home</a>
+        </header>
         <h1>My favorite foods</h1>
         <hr/>
         <ol>
