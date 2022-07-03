@@ -1,20 +1,28 @@
-h1, h2, .header, .nav {
+h1, h2, .header, body {
     background-color:#ffe4c4;
-    background-image: #ffe4c4 url(HD-wallpaper-heart-aesthetic-background.jpg) top left repeat
+    background: #ffe4c4 url(Users/aubreyburnham/Desktop/Daisy/images/HD-wallpaper-heart-aesthetic-background.jpg) center center repeat
 }
 .header {
-
+text-align: center;
 }
 h1 {
-margin: 5px;
-padding:10px;
-text-align: center;
-font-family: Arial, Helvetica, sans-serif
+    margin: 5px;
+    padding: 5px;  
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif
 }
 h2 {
-text-align: center;
-height: 5px;
+    text-align: center;
+    height: 5px;
 }
 .nav {
-
+  text-align: center; 
+  background-color: #000000;
+}
+ul {
+    padding: 5px;
+}
+a {
+    margin: 20px;
+    color: #ffffff;
 }
